@@ -1,0 +1,13 @@
+//
+//  TableViewCellLayoutTest.pch
+//  TableViewCellLayoutTest
+//
+//  Created by lixiaofei1 on 2018/10/23.
+//  Copyright © 2018 lixiaofei1. All rights reserved.
+//
+
+#ifndef TableViewCellLayoutTest_pch
+#define TableViewCellLayoutTest_pch
+#import <Masonry.h>
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width
+#endif /* TableViewCellLayoutTest_pch */
